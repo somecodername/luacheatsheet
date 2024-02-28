@@ -9,3 +9,5 @@ my lil lua "cheatsheet" Ive been working on
  cd luacheatsheet
  lua luacheatsheet.lua
  )
+
+print("Hello, World!")
